@@ -1,0 +1,19 @@
+.introBox {
+	background-color:lightsalmon;
+	text-align: center;
+}
+h1 {color: black;
+	font-family: 'Inter', sans-serif;
+	font-weight: bold;
+}
+h2 {color: black;
+font-family: 'Inter', sans-serif;
+font-style: italic;
+}
+p {color: black;
+font-family: 'Inter', sans-serif;
+text-align: left;
+}
+.sidebarstyle {
+	background-color:lightslategray;
+}
