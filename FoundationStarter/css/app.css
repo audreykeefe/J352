@@ -1,19 +1,19 @@
 .introBox {
-	background-color:lightsalmon;
+	background-color:grey;
 	text-align: center;
 }
-h1 {color: black;
-	font-family: 'Inter', sans-serif;
-	font-weight: bold;
+h1 {font-family: 'Playfair Display' serif;
+	text-align: center;
+
 }
-h2 {color: black;
-font-family: 'Inter', sans-serif;
-font-style: italic;
+h2 {font-family:'PT Sans', sans-serif;
 }
-p {color: black;
-font-family: 'Inter', sans-serif;
-text-align: left;
+h3 {font-family: 'Lato', sans-serif;
+font-family: ;font-size: medium;
+	font-sty;e: italic;
 }
-.sidebarstyle {
-	background-color:lightslategray;
+p {font-family: 'Lato', sans-serif;
+font-family: ;font-size: medium
 }
+.grey 
+{background-color: #f4f4f4;}
