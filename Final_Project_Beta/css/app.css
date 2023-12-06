@@ -1,0 +1,52 @@
+.introBox {
+	background-color:#B8860B;
+	text-align: center;
+}
+h1 {color: black;
+	font-family: 'Dosis', sans-serif;
+	font-family: 'Merriweather', serif;
+	font-family: 'Open Sans', sans-serif;;
+	font-weight: bold;
+}
+h2 {color: black;
+font-family: 'Dosis', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif;
+font-style: italic;
+}
+h3 {color: black;
+font-family: 'Dosis', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif;
+}
+h4 {color: black;
+font-family: 'Dosis', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+font-style: italic;
+}
+p {color: black;
+font-family: 'Dosis', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif;
+text-align: left;
+}
+.sidebarstyle {
+	background-color:#DBAB75;}
+
+.callout-box {
+    background-color: #DBAB75;
+    color: #black;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px;}
+
+
+* {box-sizing:border-box}
+
+footer {
+    background-color: #B0C4DE;
+    color: #fff; 
+    text-align: center;
+    padding: 10px;}
